@@ -100,5 +100,3 @@ framework/osgi.jar                                            tools/lib/osgi.jar
 framework/swing-worker-1.1.jar                                tools/lib/swing-worker-1.1.jar
 framework/org-netbeans-api-visual.jar                         tools/lib/org-netbeans-api-visual.jar
 framework/org-openide-util.jar                                tools/lib/org-openide-util.jar
-
-
